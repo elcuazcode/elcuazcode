@@ -20,7 +20,7 @@
 
 
 ### Glad to see you here!  
-I'm a python developer who enjoy to make hard things easy!  
+I am a Python programmer, my day to day is automated with Python, my knowledge in mathematics, algorithms, data structure are the tools that allow me to find efficient solutions to problems. I like data, cloud computing and programming because it allows us to prepare for the future. 
   
 
 <br/>  
