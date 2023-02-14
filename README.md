@@ -20,8 +20,7 @@
 
 
 ### Glad to see you here!  
-I am a Python programmer, my day to day is automated with Python, my knowledge in mathematics, algorithms, data structure are the tools that allow me to find efficient solutions to problems. I like data, cloud computing and programming because it allows us to prepare for the future. 
-  
+I am a skilled Python programmer with a deep appreciation for the power of open-source software, particularly Linux. I enjoy leveraging my knowledge of automation to streamline routine tasks, freeing up valuable time to explore my interests, such as literature and outdoor activities. I'm passionate about problem-solving and always seeking new challenges to grow my skill set."
 
 <br/>  
 
