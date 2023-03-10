@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a skilled Python programmer with a deep appreciation for the power of open-source software, particularly Linux. I enjoy leveraging my knowledge of automation to streamline routine tasks, freeing up valuable time to explore my interests, such as literature and outdoor activities. I'm passionate about problem-solving and always seeking new challenges to grow my skill set."
+I am a pragmatic person who faces challenges creatively. I speak three languages and I am learning the fourth. I use Python and its paradigms as the main tool to deliver efficient solutions. I enjoy coffee, Vivaldi, and the constant acquisition of knowledge.
 
 <br/>  
 
