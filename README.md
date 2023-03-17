@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a pragmatic person who faces challenges creatively. I speak three languages and I am learning the fourth. I use Python and its paradigms as the main tool to deliver efficient solutions. I enjoy coffee, Vivaldi, and the constant acquisition of knowledge.
+I am Jonathan Velasquez, I am passionate about python and solving problems efficiently. I am constantly looking for excellence and knowledge. Also, if something is repetitive, then I have to automate it. I have developed several scripts and applications in python to optimize daily tasks and improve processes in my work. I enjoy books, coffee and Vivaldi (the composer not the browser).
 
 <br/>  
 
