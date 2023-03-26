@@ -1,7 +1,7 @@
 
 <img src="https://github.com/elcuazcode/elcuazcode/blob/main/Minimalista.png" alt="software developer">
 
-## Hey 👋, I'm Jonathan Velasquez!  
+## I'm Jonathan Velasquez!  
   
 <a href="https://linkedin.com/in/elcuazcode" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
