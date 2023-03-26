@@ -1,3 +1,4 @@
+
 <img src="https://github.com/elcuazcode/elcuazcode/blob/main/Minimalista.png" alt="software developer">
 
 ## Hey 👋, I'm Jonathan Velasquez!  
@@ -18,7 +19,7 @@
 
 
 ### Glad to see you here!  
-I am Jonathan Velasquez, I am passionate about python and solving problems efficiently. I am constantly looking for excellence and knowledge. Also, if something is repetitive, then I have to automate it. I have developed several scripts and applications in python to optimize daily tasks and improve processes in my work. I enjoy books, coffee and Vivaldi (the composer not the browser).
+<p>I am Jonathan Velasquez, I am passionate about python and solving problems efficiently. I am constantly looking for excellence and knowledge. Also, if something is repetitive, then I have to automate it. I have developed several scripts and applications in python to optimize daily tasks and improve processes in my work. I enjoy books, coffee and Vivaldi (the composer not the browser).</p>
 
 <br/>  
 
@@ -51,7 +52,7 @@ I am Jonathan Velasquez, I am passionate about python and solving problems effic
 <br />
 
 ----
-
+## Projects
 
 
 
