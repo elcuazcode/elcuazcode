@@ -54,5 +54,29 @@
 ----
 ## Projects
 
+### Open Source Contributions
+
+
+ - [About The Project](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+  - [ NLP somos-alpaca-es](https://huggingface.co/spaces/elcuazcode/somos-alpaca-es)
+
+
+
+### LeetCode Essentials
+
+ - [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0=)
+ - My Solutions
+ 
+ ### Data Structure & Algorithms
+ - Code
+ 
+### Scripts
+ - Databases
+ - Python & Databases
+
+### Member of
+
+ - **Github Campus Expert** 
+<img src="https://github.com/elcuazcode/elcuazcode/blob/main/campuesexpert.jpg" alt="software developer">
 
 
