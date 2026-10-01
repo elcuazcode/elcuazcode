@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🔐 About Me</h3>
 
 ###
 
-<p align="left">I am a dynamic professional who combines rapid learning ability with unwavering discipline to deliver excellence in every project. I thrive on new challenges and take pride in bringing measurable value to every opportunity.<br><br>° Results-Driven: I deliver high-quality work on time and help keep projects on track through consistent effort.<br>° Performance-Focused: I consistently meet goals and deadlines while maintaining high standards in all my work.</p>
+<p align="left">Network Security Engineer working with the Security Team of an international MSP, securing network infrastructure, primarily on Fortinet, for clients across multiple countries. ISC2 Certified in Cybersecurity (CC).<br><br>° Firewall hardening and policy remediation<br>° Vulnerability scanning and remediation<br>° Automation for repeatable security operations</p>
 
 ###
 
@@ -14,24 +14,22 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Tools</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="40" alt="fortinet logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -51,12 +49,5 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elcuazcode.elcuazcode&"  />
-</div>
-
-###
-
+<p align="center"><i>Grandson of the Lords of Xibalba</i></p>
 
